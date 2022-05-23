@@ -203,9 +203,9 @@ The number of training row will be 3585*0.9 (we split test size is 0.1), then we
 
 
 To do that we will:
-- Expand columns such as `city`, `bed_type`, `cancellation_policy'. These columns are categories, we can 
+- Expand columns such as `city`, `bed_type`, `cancellation_policy`. These columns are categories, we can 
 represent to one-hot vector by using `pd.get_dummies`
-- In each city, we will add more information like `mean`, `max`, `min' for numeric fields such as the number of bedrooms, numbers of availability in 30 days...
+- In each city, we will add more information like `mean`, `max`, `min` for numeric fields such as the number of bedrooms, numbers of availability in 30 days...
 - Add more functions like log, square
 - Add more features by combining 2 features
 
