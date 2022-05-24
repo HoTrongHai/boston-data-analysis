@@ -22,7 +22,7 @@
 
    <li><a href="#prepare-data">Prepare data</a></li>
 
-   <li><a href="#question-1">Question 1: Earning in timeframe and areas</a></li>
+   <li><a href="#question-1">Question 1: Earning in timeframe and cities</a></li>
    <li><a href="#question-2">Question 2: Predict housing price by properties</a></li>
 
   </ol>
